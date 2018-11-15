@@ -1,6 +1,6 @@
 # Temel ROS Eğitimi
 
-## Udemy Üzerinde yayınlamakta olduğum eğitimime aşadağıdaki indirim kupanunu kullanarak ulaşabilirsiniz.
+## Udemy Üzerinde yayınlamakta olduğum eğitimime aşadağıdaki indirim kuponunu kullanarak ulaşabilirsiniz.
 
 ### [Udemy - Temel ROS Eğitimi İndirim Kuponu](https://www.udemy.com/temel-ros-egitimi/?couponCode=ROS_2018])
 
