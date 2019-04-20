@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<launch>
+    <!--node pkg="beginner_tutorials" name="talker" type="talker.py" output="screen"/>
+    <node pkg="beginner_tutorials" name="listener" type="listener" output="screen"/-->
+    
+    <node pkg="beginner_tutorials" name="add_two_ints_server" type="add_two_ints_server" output="screen"/>
+    <node pkg="beginner_tutorials" name="add_two_ints_client" type="add_two_ints_client" args="$(arg a) $(arg b)" output="screen"/>
+
+</launch>
